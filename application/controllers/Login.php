@@ -5,6 +5,6 @@ class Login extends CI_Controller {
 
 	public function Login()
 	{
-		$this->load->view('login.php');
+		$this->load->view('loginAdmin.php');
 	}
 }
