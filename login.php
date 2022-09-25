@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>Welly - Online Shop Admin Dashboard</title>
+    <title>Welly - OlShop Admin Dashboard</title>
     <!-- Favicon icon -->
     <link rel="icon" type="image/jpg" sizes="16x16" href="./images/mandiri.jpg">
     <link href="./css/style.css" rel="stylesheet">
